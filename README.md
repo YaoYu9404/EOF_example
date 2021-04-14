@@ -1,4 +1,8 @@
 # EOF_example
+
+step0:
+download this repository into local folder then replace the "add = '//Users/yayu/Documents/example_data/" in EOF_example.ipynb to your local directory
+
 step 1:
 open terminal and type matlab, run step0_create to generate some example dataset
 
